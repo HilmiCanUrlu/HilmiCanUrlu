@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **EveNG Simulation**
+ 🔭 I’m currently working on **Land Registry Office Automation Program**
  
  🌱 I’m currently learning **Network, Javascript, Web Design , C#**
 
-⚡ Fun fact **Giraffes are 30 times more likely to get hit by lightning than people.**
+⚡ Fun fact **I can graduate.**
 
  </div>
  
@@ -56,7 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=HilmiCanUrlu&theme=merko&border_radius=10&card_height=205" alt="GitHub Streak" />
+  <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com?user=HilmiCanUrlu&theme=merko)](https://git.io/streak-stats) />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=HilmiCanUrlu&count_private=true&show_icons=true&theme=merko&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilmiCanUrlu&hide=HTML&langs_count=8&layout=compact&theme=merko&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
